@@ -1,1 +1,1 @@
-I am a seasoned entrepreneur and aspiring author looking for investors and collaborators to solve a problem of human fulfillment and ai misalignment with an untapped potential market of one billion customers
+I am a seasoned entrepreneur and an aspiring author looking for investors and collaborators to solve a problem of human unfulfillment and ai misalignment with an untapped potential market of one billion customers
