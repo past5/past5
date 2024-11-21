@@ -2,4 +2,3 @@ I am writing a book, 𝑬𝒄𝒐𝒏𝒐𝒎𝒚 𝒐𝒇 𝑾𝒊𝒔𝒅𝒐�
 
 I am also bootstrapping an AI enterprise that helps us deal with this global human unfulfillment crisis by creating a novel affective AI technology.
 
-Stay tuned. 😉
