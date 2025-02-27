@@ -1,2 +1,8 @@
-Creating wiserbotics, a company that revolutionizes emotional connection with our neuro-affective AI: technology that understands, adapts to, and responds to human emotions in real-time.
-Writing 𝑬𝒄𝒐𝒏𝒐𝒎𝒚 𝒐𝒇 𝑾𝒊𝒔𝒅𝒐𝒎, a book that defines 𝐡𝐮𝐦𝐚𝐧 𝐮𝐧𝐟𝐮𝐥𝐟𝐢𝐥𝐥𝐦𝐞𝐧𝐭 and 𝐚𝐢 𝐦𝐢𝐬𝐚𝐥𝐢𝐠𝐧𝐦𝐞𝐧𝐭 problem and explores ideas of a societal transformation to keep us relevant and empowered as AI automates progressively more knowledge jobs.
+Empowering people through AI, great products, writing, and music.
+
+Here are the ventures and brands I am currently working on:
+
+wiserbotics – “Neuro-affective AI for real-time emotional connections.”
+ele^velate – “Music productions that lift your mood.”
+Economy of Wisdom – “Exploring the human unfulfillment crisis and AI misalignment.”
+Past 5 – “Fractional CPTO services turning ideas into planet-scale solutions.”
