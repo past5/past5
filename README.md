@@ -1,3 +1,5 @@
+![AI Agents](./ai_agents.jpeg)
+
 Empowering people through AI, great products, automations, writing, and music.
 
 Here are the ventures and brands I am currently working on:
