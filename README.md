@@ -1,4 +1,6 @@
-![AI Agents](./ai_agents.jpeg)
+<p align="center">
+  <img src="./ai_agents.jpeg" width="400"/>
+</p>
 
 Empowering people through AI, great products, automations, writing, and music.
 
