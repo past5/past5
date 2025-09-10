@@ -8,7 +8,8 @@ Advisor to [Opportunity International](https://opportunity.org), [Scale AI](http
 
 ## 🚀 About Me  
 
-I build AI infrastructure and human-centered systems that scale.  
+I build AI infrastructure and human-centered systems that scale.
+
 At **PolarGrid**, I’m helping create North America’s first **real-time AI inference compute network**.  
 Through the **Economy of Wisdom Foundation** and **Lantern Lab Society**, I advance **peer-led AI education** and **wisdom-centered alignment**.  
 At **Past 5**, I transform **complex data into stories** that people can understand and act on.  
