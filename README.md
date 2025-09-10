@@ -1,7 +1,54 @@
-Sev Geraskin is Co-Founder and VP of Engineering at PolarGrid, building North America’s first real-time AI inference compute network. He also serves as President of the Economy of Wisdom Foundation, Executive Director of the Lantern Lab Society, and Founder of Past 5, a platform for data storytelling that transforms complex information into narrative insight. In addition, Sev advises organizations including Opportunity International, Scale AI, Indigenomics, and multiple startups, helping them align technology strategy with human-centered outcomes.
+# 👋 Sev Geraskin
 
-With over two decades of engineering and product leadership, Sev has scaled mission-critical systems across startups and global enterprises. At Mastercard, he expanded distributed data services 100×, cut cloud costs by 75%, and architected high-availability pipelines that unlocked multimillion-dollar opportunities. He has co-founded ventures including Stack Moxie (CTO) and Wiserbotics, pioneering neuro-affective AI for real-time emotional response.
+Co-Founder & VP of Engineering at [PolarGrid](https://polargrid.ai) | Founder of [Past 5](https://www.past5.com) | President of [Economy of Wisdom Foundation](https://economyofwisdom.org) | Executive Director of Lantern Lab Society  
 
-His expertise spans AI alignment, agent orchestration, distributed systems, large-scale cloud platforms, and narrative data visualization. A graduate of BCIT with distinction, Sev also holds certifications in AI Alignment, AWS Architecture and Security, Generative AI, and PMP, and previously contributed to Round, a curated network of executives shaping products with global impact.
+Advisor to [Opportunity International](https://opportunity.org), [Scale AI](https://scaleai.ca), [Indigenomics](https://indigenomicsinstitute.com), and multiple startups.  
 
-Today, Sev’s mission is to bridge technical innovation with human wisdom by aligning infrastructure, intelligence, and storytelling to help organizations and communities move beyond misalignment and unfulfillment toward a more connected collective experience.
+---
+
+## 🚀 About Me  
+
+I build AI infrastructure and human-centered systems that scale.  
+At **PolarGrid**, I’m helping create North America’s first **real-time AI inference compute network**.  
+Through the **Economy of Wisdom Foundation** and **Lantern Lab Society**, I advance **peer-led AI education** and **wisdom-centered alignment**.  
+At **Past 5**, I transform **complex data into stories** that people can understand and act on.  
+
+With 20+ years in engineering and product leadership, I’ve led teams across startups and enterprises.  
+At **Mastercard**, I scaled distributed data services **100×**, cut costs **75%**, and delivered **high-availability pipelines** powering global financial infrastructure.  
+
+I’ve co-founded ventures including **Stack Moxie (CTO)** and **Wiserbotics**, pioneering **neuro-affective AI** for real-time emotional response.  
+
+---
+
+## 🛠️ Expertise  
+
+- **AI Alignment & Agent Orchestration**  
+- **Distributed Systems & Scalable Infrastructure**  
+- **Large-Scale Cloud Platforms**  
+- **Data Storytelling & Narrative Visualization**  
+
+---
+
+## 🎓 Credentials  
+
+- Graduate of BCIT with Distinction  
+- Certifications: AI Alignment, AWS Architecture & Security, Generative AI, PMP  
+- Former member of **Round**, a curated network of executives shaping global technology products  
+
+---
+
+## 🌍 Mission  
+
+My work focuses on **bridging technical innovation with human wisdom**.  
+I aim to align **infrastructure, intelligence, and storytelling** to help organizations and communities move beyond misalignment and unfulfillment toward a more connected collective experience.  
+
+---
+
+## 🔗 Links  
+
+- 🌐 [PolarGrid](https://polargrid.ai)  
+- 📊 [Past 5](https://www.past5.com)  
+- 📚 [Economy of Wisdom Foundation](https://economyofwisdom.org)  
+- 🏮 Lantern Lab Society (link coming soon)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/past5)  
+
