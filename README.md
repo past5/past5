@@ -1,4 +1,4 @@
-# 👋 Sev Geraskin
+# ♾️ sev geraskin
 
 Co-Founder & VP of Engineering at [PolarGrid](https://polargrid.ai) | Founder of [Past 5](https://www.past5.com) | President of [Economy of Wisdom Foundation](https://economyofwisdom.org) | Executive Director of Lantern Lab Society  
 
