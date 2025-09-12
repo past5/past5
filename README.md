@@ -2,7 +2,7 @@
 
 Co-Founder & VP of Engineering at [PolarGrid](https://polargrid.ai) | Founder of [Past 5](https://www.past5.com) | President of [Economy of Wisdom Foundation](https://economyofwisdom.org) | Executive Director of Lantern Lab Society  
 
-Advisor to [Opportunity International](https://opportunity.org), [Scale AI](https://scaleai.ca), [Indigenomics](https://indigenomicsinstitute.com), and multiple startups.  
+Advisor and mentor to [Scale AI](https://scaleai.ca), [Opportunity International](https://opportunity.org), [Indigenomics](https://indigenomicsinstitute.com), and multiple startups.  
 
 ---
 
