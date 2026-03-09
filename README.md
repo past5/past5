@@ -1,55 +1,67 @@
-# ♾️ sev geraskin
+# Sev Geraskin
 
-Co-Founder & VP of Engineering at [PolarGrid](https://polargrid.ai) | Founder of [Past 5](https://www.past5.com) | President of [Economy of Wisdom Foundation](https://economyofwisdom.org) | Executive Director of Lantern Lab Society  
-
-Advisor and mentor to [Scale AI](https://scaleai.ca), [Opportunity International](https://opportunity.org), [Indigenomics](https://indigenomicsinstitute.com), and multiple startups.  
+**Co-Founder & VP Engineering, PolarGrid** · **President, Economy of Wisdom Foundation** · **Vancouver, BC**
 
 ---
 
-## 🚀 About Me  
-
-I build AI infrastructure and human-centered systems that scale.
-
-At **PolarGrid**, I’m helping create North America’s first **real-time AI inference compute network**.  
-Through the **Economy of Wisdom Foundation** and **Lantern Lab Society**, I advance **peer-led AI education** and **wisdom-centered alignment**.  
-At **Past 5**, I transform **complex data into stories** that people can understand and act on.  
-
-With 20+ years in engineering and product leadership, I’ve led teams across startups and enterprises.  
-At **Mastercard**, I scaled distributed data services **100×**, cut costs **75%**, and delivered **high-availability pipelines** powering global financial infrastructure.  
-
-I’ve co-founded ventures including **Stack Moxie (CTO)** and **Wiserbotics**, pioneering **neuro-affective AI** for real-time emotional response.  
+```
+Real-time AI inference at the edge.
+Distributed systems that scale.
+Frameworks that ask whether technology actually serves people.
+```
 
 ---
 
-## 🛠️ Expertise  
+## What I'm Building
 
-- **AI Alignment & Agent Orchestration**  
-- **Distributed Systems & Scalable Infrastructure**  
-- **Large-Scale Cloud Platforms**  
-- **Data Storytelling & Narrative Visualization**  
+**[PolarGrid](https://polargrid.ai)** — North America's first real-time AI inference compute network, purpose-built for voice agents and agentic AI workloads. Sub-30ms latency. Edge-first architecture. Bare metal Kubernetes, Triton Inference Server, and a full voice pipeline (Whisper → LLM → Kokoro) running on Blackwell GPUs at colo in Vancouver and Toronto.
 
----
+**[Economy of Wisdom Foundation](https://economyofwisdom.org)** — A research and community organization developing new frameworks for post-productivity economies. The core question: Does a system increase or decrease fulfillment for the people it touches?
 
-## 🎓 Credentials  
-
-- Graduate of BCIT with Distinction  
-- Certifications: AI Alignment, AWS Architecture & Security, Generative AI, PMP  
-- Former member of **Round**, a curated network of executives shaping global technology products  
+**[Past 5 Solutions](https://past5.com)** — Founder. Data storytelling and technology strategy consulting.
 
 ---
 
-## 🌍 Mission  
+## Work That Mattered
 
-My work focuses on **bridging technical innovation with human wisdom**.  
-I aim to align **infrastructure, intelligence, and storytelling** to help organizations and communities move beyond misalignment and unfulfillment toward a more connected collective experience.  
+- Scaled distributed data services **100×** at Mastercard while cutting cloud costs **75%** — architected pipelines that unlocked multimillion-dollar opportunities
+- Built PolarGrid's full infrastructure stack from scratch: two-tier Kubernetes, GPU passthrough, MetalLB, bare metal Supermicro
+- Mentored four AI startups through Scale AI's Zen Launchpad Cohort 2
+- Published **Transmutarianism** (DOI: [10.5281/zenodo.18809258](https://doi.org/10.5281/zenodo.18809258)) — a moral accounting framework for measuring deprivation and fulfillment flows through agent networks: `M = τF + αA`
+- Developed PITC (Physical-Information Theory of Consciousness), distinguishing crystallized intelligence from fluid consciousness in AI-integrated substrates
 
 ---
 
-## 🔗 Links  
+## Technical Depth
 
-- 🌐 [PolarGrid](https://polargrid.ai)  
-- 📊 [Past 5](https://www.past5.com)  
-- 📚 [Economy of Wisdom Foundation](https://economyofwisdom.org)  
-- 🏮 Lantern Lab Society (link coming soon)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/past5)  
+```
+Infrastructure     Kubernetes (MicroK8s, Kata containers) · MetalLB · bare metal GPU clusters
+AI/ML             Triton Inference Server · Whisper · Qwen · LLaMA · Nemotron · Kokoro TTS · NVIDIA Blackwell
+Cloud             AWS (Solutions Architect, Security certified) · multi-region distributed systems
+Languages         Python · Go · TypeScript · Bash
+Domains           Voice AI · agent orchestration · AI alignment · real-time inference · LLM serving
+```
 
+---
+
+## Thinking
+
+I've spent years asking whether the systems we build actually serve people: as a measurable, falsifiable question. Transmutarianism is my attempt to formalize that: a framework for tracking whether agents (human or artificial) are net producers of fulfillment or deprivation across the networks they touch.
+
+I believe compute infrastructure is a question of cognitive sovereignty. Who controls the inference layer shapes who benefits from AI.
+
+---
+
+## Credentials
+
+BCIT · AI Alignment · AWS Solutions Architect · AWS Security · Generative AI · PMP
+
+---
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/past5) · [PolarGrid](https://polargrid.ai) · [Economy of Wisdom](https://economyofwisdom.org)
+
+---
+
+*The real measure of any system is whether it transforms deprivation into fulfillment for the people and communities it serves.*
