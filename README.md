@@ -27,7 +27,7 @@ Frameworks that ask whether technology actually serves people.
 - Scaled distributed data services **100×** at Mastercard while cutting cloud costs **75%** — architected pipelines that unlocked multimillion-dollar opportunities
 - Built PolarGrid's full infrastructure stack from scratch: two-tier Kubernetes, GPU passthrough, MetalLB, bare metal Supermicro
 - Mentored four AI startups through Scale AI's Zen Launchpad Cohort 2
-- Published **Transmutarianism** (DOI: [10.5281/zenodo.18809258](https://doi.org/10.5281/zenodo.18809258)) — a moral accounting framework for measuring deprivation and fulfillment flows through agent networks: `M = τF + αA`
+- Published **Transmutarianism** (DOI: [10.5281/zenodo.18809258](https://doi.org/10.5281/zenodo.18809258)) — a moral accounting framework for measuring deprivation and fulfillment flows through agent networks: `M = τF + A`
 - Developed PITC (Physical-Information Theory of Consciousness), distinguishing crystallized intelligence from fluid consciousness in AI-integrated substrates
 
 ---
