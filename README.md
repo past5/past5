@@ -16,10 +16,6 @@ One endpoint, global inference delivery. Each request is served from the site ne
 
 **If a site goes down, its traffic moves to the next nearest site and the endpoint stays up.** When traffic surges in one region, nearby sites take the overflow.
 
-<img src="assets/heartbeat.svg" width="100%" alt="Monitoring at scale. Four nodes, each with a scrolling heartbeat. Two are serving requests, one has no requests and still beats, and one goes silent: its line goes flat and the missing beat is ringed in red.">
-
-**Every node keeps a heartbeat.** The heartbeat fires whether or not traffic flows, so a node with no requests is distinguishable from a node that has gone silent.
-
 <details>
 <summary><b>How it works, for engineers</b></summary>
 <br>
@@ -67,11 +63,7 @@ One endpoint, global inference delivery. Each request is served from the site ne
 
 </details>
 
-## Where I come from
-
-<img src="assets/fork.svg" width="100%" alt="Systems that are not allowed to stop. Three gold lines, each forking from the one above: khokhloma, in Russian old faith communities; semiconductors, in Soviet industrialization; software, PolarGrid and commercial global distributed compute, in Canada and AI progress. The bright line ends in the question: Who does it work for?">
-
-My ancestors made khokhloma, painted wooden spoons, in the Volga communities. My parents became semiconductor engineers. I came to Canada and spent twenty years building systems that are not allowed to stop. I spent most of my career asking whether a system works. Increasingly, I've become interested in a different question: who does it work for?
+## Thinking
 
 I believe compute infrastructure is a question of cognitive sovereignty. Who controls the inference layer shapes who benefits from AI.
 
