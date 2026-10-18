@@ -67,7 +67,7 @@ One endpoint, global inference delivery. Each request is served from the site ne
 
 ## Thinking
 
-I believe compute infrastructure is a question of cognitive sovereignty. [Take back the power to shape what shapes you.](https://economyofwisdom.org/blog/2026-06-14-who-shapes-consciousness/)
+Who builds the world around us shapes who we become. [Take back the power to shape what shapes you.](https://economyofwisdom.org/blog/2026-06-14-who-shapes-consciousness/)
 
 ## Work that mattered
 
