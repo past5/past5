@@ -1,4 +1,4 @@
-<a href="https://polargrid.ai"><img src="assets/hero.svg" width="100%" alt="Sev Geraskin. AI has to answer as fast as a person would. So the computer has to sit near the person. A dark world map of PolarGrid's sites as of October 2026: eight live sites in North America (Seattle, San Jose, Los Angeles, Dallas, Miami, Ashburn, New York and Montreal) glow pink, thirty-five planned sites on five continents are dashed rings, and requests from North American cities fly to the nearest live site."></a>
+<a href="https://polargrid.ai"><img src="assets/hero.svg" width="100%" alt="Sev Geraskin. Global distributed network for AI compute. A dark world map of PolarGrid's sites as of October 2026: eight live sites in North America (Seattle, San Jose, Los Angeles, Dallas, Miami, Ashburn, New York and Montreal) glow pink, thirty-five planned sites on five continents are dashed rings, and requests from North American cities fly to the nearest live site."></a>
 
 **Co-founder and VP Engineering, [PolarGrid](https://polargrid.ai)** · **President, [Economy of Wisdom Foundation](https://economyofwisdom.org)** · Vancouver, BC
 
@@ -36,7 +36,7 @@ One endpoint, global inference delivery. Each request is served from the site ne
 
 ## Economy of Wisdom Foundation: every organization moves human needs
 
-<img src="assets/quadrant.svg" width="100%" alt="Every organization moves human needs. We measure which way. A quadrant: Transmuter filters deprivation and amplifies fulfillment (+F +A); Absorber +F −A; Magnifier −F +A; Extractor −F −A; the Conduit sits at the centre. Nine published placements drift in: UBC, Ai2 (OLMo) and Quebec AI policy as Transmuters; Bill C-34 and Telus data centres as Absorbers; DeepSeek and Ontario AI policy as Magnifiers; Bill C-22 as an Extractor; US tariffs on Canadians on the line. Readings of the public record, not audits.">
+<img src="assets/quadrant.svg" width="100%" alt="Every organization moves human needs. We measure which way. A quadrant with amplification A, the fulfillment emitted, across and filtering F, the deprivation absorbed, up: Absorber top left (+F −A), Transmuter top right (+F +A), Extractor bottom left (−F −A), Magnifier bottom right (−F +A), the Conduit at the centre. Nine published placements drift in: UBC, Ai2 (OLMo) and Quebec AI policy as Transmuters; Bill C-34 and Telus data centres as Absorbers; DeepSeek and Ontario AI policy as Magnifiers; Bill C-22 as an Extractor; US tariffs on Canadians on the line between Extractor and Magnifier. Readings of the public record, not audits.">
 
 **We measure which way.** Transmutarianism is a published framework for scoring what an organization, project or AI system does to the people it touches: the hardship it absorbs, and the fulfillment it passes on. Each dot is a field note's published reading of the public record.
 
